@@ -1,3 +1,3 @@
-This is a basic recipe website that was built using html. I
+This will be a basic recipe website that was built using html.
 
-It was created to practice basic html, file organisation, and git skills. 
+The purpose of this project is to practice basic html skills, file organisation, and git commits. 
